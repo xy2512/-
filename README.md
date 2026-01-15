@@ -152,3 +152,7 @@
 4.  在云后台配置商户号密钥及支付回调地址。
 
 ---
+小程序体验码
+
+<img width="303" height="315" alt="8ee1187746b6a69dadff9fbf5dfd4bbc" src="https://github.com/user-attachments/assets/81891592-eb67-4203-998c-896b605fe438" />
+
