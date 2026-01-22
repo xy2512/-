@@ -153,6 +153,7 @@
 ---
 小程序体验码
 
-<img width="281" height="403" alt="image" src="https://github.com/user-attachments/assets/52762616-e1f8-454f-88ff-0f090d812aa7" />
+<img width="290" height="406" alt="image" src="https://github.com/user-attachments/assets/def79daf-fddd-41de-87fe-76dd86736477" />
+
 
 
