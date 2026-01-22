@@ -151,6 +151,13 @@
 4.  在云后台配置商户号密钥及支付回调地址。
 
 ---
+界面展示
+![63b7dcc895ec83a4b2336c0eb3b8ca9d](https://github.com/user-attachments/assets/6d3e1597-a959-4934-acb1-d27835f7df73)
+![d901c0bb97ec4ce6c3af48e351223e25](https://github.com/user-attachments/assets/b5f7de14-ff39-45c3-b429-44156ea5a8bd)
+![6cf4f2d98e568d67e8036213a51b2690](https://github.com/user-attachments/assets/42a5d280-26c5-449e-b0eb-6dc7c97627c4)
+![5e1100307f79509652341e8366b6b6b5](https://github.com/user-attachments/assets/cad620d9-7756-401a-97f0-e4994dc1de4d)
+![34c9ab87f1f3400d3327b4feeab46567](https://github.com/user-attachments/assets/449694c8-ef3f-42e4-bcbc-5bdc58324d62)
+
 小程序体验码
 
 <img width="290" height="406" alt="image" src="https://github.com/user-attachments/assets/def79daf-fddd-41de-87fe-76dd86736477" />
